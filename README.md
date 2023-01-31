@@ -9,7 +9,6 @@
 - insertion_sort
 - merge_sort
 - quicksort
-- trie
 
 ## data_structure
 - binary_search_tree
@@ -21,13 +20,15 @@
 - singly_linked_list
 - stack
 - standard_queue
+- trie
 
 ## big o notation
-| data structure | insertion | deletion | search |
-| ------ | ------ | ------ |--------|
-| linked_list (lifo) | 1 | n | n      |
-| standard_queue (fifo) | 1 | 1 | n      |
-| binary_search_tree | log n | n | log n  |
+| data structure        | insertion | deletion | search |
+|-----------------------|-----------| ------ |--------|
+| linked_list (lifo)    | 1         | n | n      |
+| standard_queue (fifo) | 1         | 1 | n      |
+| binary_search_tree    | log n     | n | log n  |
+| trie                  | n         | n | n  |
 
 ## minimum requirements
 python interpreter version 2.7 unless otherwise specified
