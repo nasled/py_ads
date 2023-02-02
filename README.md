@@ -14,7 +14,7 @@
 - binary_search_tree
 - double_ended_queue
 - doubly_linked_list
-- min_queue
+- min_heap
 - priority_queue
 - set
 - singly_linked_list
